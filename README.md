@@ -1,66 +1,14 @@
-## Foundry
+# Music Nft (j cole forest hill drive)
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+# Overview
 
-Foundry consists of:
+Welcome to the "2014 Forest Drive" NFT Collection! This collection features non-fungible tokens (NFTs) for J. Cole's classic album, "2014 Forest Hills Drive." Each NFT represents a unique aspect of the album.
+The album, named after J. Cole's childhood home address, is a concept album that tells the story of his life, from his childhood to his rise to fame and his eventual return to his roots. The NFTs in this collection capture the essence of the album and its significance in J. Cole's career and the hip-hop genre.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+Some of the NFTs in this collection include:
 
-## Documentation
-
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+- The album cover art, featuring J. Cole sitting on top of his childhood home. 
+- The "Intro" NFT, representing the opening track of the album and its themes of happiness and self-reflection.
+- The "Love Yourz" NFT, representing one of the album's most popular and impactful songs, with its message of finding happiness in what matters.
+- The "Fire Squad" NFT, representing the album's more heavy rap and J. Cole's assertion of his place in the hip-hop genre.
+- The "End Credits" NFT, representing the album's closing track, where J. Cole thanks everyone involved in the album.
